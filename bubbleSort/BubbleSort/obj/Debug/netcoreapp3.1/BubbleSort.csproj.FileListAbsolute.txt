@@ -1,0 +1,13 @@
+C:\WORK\github\algorithms\bubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.exe
+C:\WORK\github\algorithms\bubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.deps.json
+C:\WORK\github\algorithms\bubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.json
+C:\WORK\github\algorithms\bubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.dev.json
+C:\WORK\github\algorithms\bubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.dll
+C:\WORK\github\algorithms\bubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\WORK\github\algorithms\bubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csprojAssemblyReference.cache
+C:\WORK\github\algorithms\bubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfoInputs.cache
+C:\WORK\github\algorithms\bubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfo.cs
+C:\WORK\github\algorithms\bubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.CoreCompileInputs.cache
+C:\WORK\github\algorithms\bubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.dll
+C:\WORK\github\algorithms\bubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\WORK\github\algorithms\bubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.genruntimeconfig.cache
