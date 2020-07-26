@@ -1,0 +1,12 @@
+C:\WORK\github\algorithms\gnomeSort\GnomeSort\bin\Debug\netcoreapp3.1\GnomeSort.exe
+C:\WORK\github\algorithms\gnomeSort\GnomeSort\bin\Debug\netcoreapp3.1\GnomeSort.deps.json
+C:\WORK\github\algorithms\gnomeSort\GnomeSort\bin\Debug\netcoreapp3.1\GnomeSort.runtimeconfig.json
+C:\WORK\github\algorithms\gnomeSort\GnomeSort\bin\Debug\netcoreapp3.1\GnomeSort.runtimeconfig.dev.json
+C:\WORK\github\algorithms\gnomeSort\GnomeSort\bin\Debug\netcoreapp3.1\GnomeSort.dll
+C:\WORK\github\algorithms\gnomeSort\GnomeSort\bin\Debug\netcoreapp3.1\GnomeSort.pdb
+C:\WORK\github\algorithms\gnomeSort\GnomeSort\obj\Debug\netcoreapp3.1\GnomeSort.AssemblyInfoInputs.cache
+C:\WORK\github\algorithms\gnomeSort\GnomeSort\obj\Debug\netcoreapp3.1\GnomeSort.AssemblyInfo.cs
+C:\WORK\github\algorithms\gnomeSort\GnomeSort\obj\Debug\netcoreapp3.1\GnomeSort.csproj.CoreCompileInputs.cache
+C:\WORK\github\algorithms\gnomeSort\GnomeSort\obj\Debug\netcoreapp3.1\GnomeSort.dll
+C:\WORK\github\algorithms\gnomeSort\GnomeSort\obj\Debug\netcoreapp3.1\GnomeSort.pdb
+C:\WORK\github\algorithms\gnomeSort\GnomeSort\obj\Debug\netcoreapp3.1\GnomeSort.genruntimeconfig.cache
