@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectSort", "SelectSort.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "..\..\bubbleSort\BubbleSort\BubbleSort.csproj", "{19244EEC-760F-48C0-A6BE-56BBA632C8B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CocktailSort", "..\..\cocktailSort\CocktailSort\CocktailSort.csproj", "{649BF5D8-EA3C-47CE-BD3F-D85EAC0111B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{19244EEC-760F-48C0-A6BE-56BBA632C8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19244EEC-760F-48C0-A6BE-56BBA632C8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19244EEC-760F-48C0-A6BE-56BBA632C8B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{649BF5D8-EA3C-47CE-BD3F-D85EAC0111B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649BF5D8-EA3C-47CE-BD3F-D85EAC0111B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649BF5D8-EA3C-47CE-BD3F-D85EAC0111B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649BF5D8-EA3C-47CE-BD3F-D85EAC0111B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

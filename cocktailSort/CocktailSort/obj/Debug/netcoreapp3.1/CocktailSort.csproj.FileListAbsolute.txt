@@ -1,0 +1,13 @@
+C:\WORK\github\algorithms\cocktailSort\CocktailSort\bin\Debug\netcoreapp3.1\CocktailSort.exe
+C:\WORK\github\algorithms\cocktailSort\CocktailSort\bin\Debug\netcoreapp3.1\CocktailSort.deps.json
+C:\WORK\github\algorithms\cocktailSort\CocktailSort\bin\Debug\netcoreapp3.1\CocktailSort.runtimeconfig.json
+C:\WORK\github\algorithms\cocktailSort\CocktailSort\bin\Debug\netcoreapp3.1\CocktailSort.runtimeconfig.dev.json
+C:\WORK\github\algorithms\cocktailSort\CocktailSort\bin\Debug\netcoreapp3.1\CocktailSort.dll
+C:\WORK\github\algorithms\cocktailSort\CocktailSort\bin\Debug\netcoreapp3.1\CocktailSort.pdb
+C:\WORK\github\algorithms\cocktailSort\CocktailSort\obj\Debug\netcoreapp3.1\CocktailSort.AssemblyInfoInputs.cache
+C:\WORK\github\algorithms\cocktailSort\CocktailSort\obj\Debug\netcoreapp3.1\CocktailSort.AssemblyInfo.cs
+C:\WORK\github\algorithms\cocktailSort\CocktailSort\obj\Debug\netcoreapp3.1\CocktailSort.csproj.CoreCompileInputs.cache
+C:\WORK\github\algorithms\cocktailSort\CocktailSort\obj\Debug\netcoreapp3.1\CocktailSort.dll
+C:\WORK\github\algorithms\cocktailSort\CocktailSort\obj\Debug\netcoreapp3.1\CocktailSort.pdb
+C:\WORK\github\algorithms\cocktailSort\CocktailSort\obj\Debug\netcoreapp3.1\CocktailSort.genruntimeconfig.cache
+C:\WORK\github\algorithms\cocktailSort\CocktailSort\obj\Debug\netcoreapp3.1\CocktailSort.csprojAssemblyReference.cache
