@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CocktailSort", "..\..\cockt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GnomeSort", "..\..\gnomeSort\GnomeSort\GnomeSort.csproj", "{61D94133-1DAC-48B9-84ED-39D29580FE91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSort", "..\..\InsertionSort\InsertionSort\InsertionSort.csproj", "{CC2B373E-89F2-4CD7-B165-66484FD2EA98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{61D94133-1DAC-48B9-84ED-39D29580FE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61D94133-1DAC-48B9-84ED-39D29580FE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61D94133-1DAC-48B9-84ED-39D29580FE91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC2B373E-89F2-4CD7-B165-66484FD2EA98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2B373E-89F2-4CD7-B165-66484FD2EA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2B373E-89F2-4CD7-B165-66484FD2EA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2B373E-89F2-4CD7-B165-66484FD2EA98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
