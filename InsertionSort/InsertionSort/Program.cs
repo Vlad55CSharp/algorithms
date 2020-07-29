@@ -11,6 +11,8 @@ namespace InsertionSort
             array[j] = temp;
         }
 
+        
+
         static void InsertionSort(int[] inArray)
         {
             int x;
