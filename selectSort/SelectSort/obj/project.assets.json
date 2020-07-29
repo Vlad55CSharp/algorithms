@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\asus\\.nuget\\packages\\": {}
+    "C:\\Users\\Владислав\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WORK\\github\\algorithms\\selectSort\\SelectSort\\SelectSort.csproj",
+      "projectUniqueName": "J:\\CSharp Github\\selectSort\\SelectSort\\SelectSort.csproj",
       "projectName": "SelectSort",
-      "projectPath": "C:\\WORK\\github\\algorithms\\selectSort\\SelectSort\\SelectSort.csproj",
-      "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\WORK\\github\\algorithms\\selectSort\\SelectSort\\obj\\",
+      "projectPath": "J:\\CSharp Github\\selectSort\\SelectSort\\SelectSort.csproj",
+      "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
+      "outputPath": "J:\\CSharp Github\\selectSort\\SelectSort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Владислав\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WORK\\github\\algorithms\\gnomeSort\\GnomeSort\\GnomeSort.csproj": {}
+    "J:\\CSharp Github\\gnomeSort\\GnomeSort\\GnomeSort.csproj": {}
   },
   "projects": {
-    "C:\\WORK\\github\\algorithms\\gnomeSort\\GnomeSort\\GnomeSort.csproj": {
+    "J:\\CSharp Github\\gnomeSort\\GnomeSort\\GnomeSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WORK\\github\\algorithms\\gnomeSort\\GnomeSort\\GnomeSort.csproj",
+        "projectUniqueName": "J:\\CSharp Github\\gnomeSort\\GnomeSort\\GnomeSort.csproj",
         "projectName": "GnomeSort",
-        "projectPath": "C:\\WORK\\github\\algorithms\\gnomeSort\\GnomeSort\\GnomeSort.csproj",
-        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\WORK\\github\\algorithms\\gnomeSort\\GnomeSort\\obj\\",
+        "projectPath": "J:\\CSharp Github\\gnomeSort\\GnomeSort\\GnomeSort.csproj",
+        "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
+        "outputPath": "J:\\CSharp Github\\gnomeSort\\GnomeSort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Владислав\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

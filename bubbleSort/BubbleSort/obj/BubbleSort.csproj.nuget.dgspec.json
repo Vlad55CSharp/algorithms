@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WORK\\github\\algorithms\\bubbleSort\\BubbleSort\\BubbleSort.csproj": {}
+    "J:\\CSharp Github\\bubbleSort\\BubbleSort\\BubbleSort.csproj": {}
   },
   "projects": {
-    "C:\\WORK\\github\\algorithms\\bubbleSort\\BubbleSort\\BubbleSort.csproj": {
+    "J:\\CSharp Github\\bubbleSort\\BubbleSort\\BubbleSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WORK\\github\\algorithms\\bubbleSort\\BubbleSort\\BubbleSort.csproj",
+        "projectUniqueName": "J:\\CSharp Github\\bubbleSort\\BubbleSort\\BubbleSort.csproj",
         "projectName": "BubbleSort",
-        "projectPath": "C:\\WORK\\github\\algorithms\\bubbleSort\\BubbleSort\\BubbleSort.csproj",
-        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\WORK\\github\\algorithms\\bubbleSort\\BubbleSort\\obj\\",
+        "projectPath": "J:\\CSharp Github\\bubbleSort\\BubbleSort\\BubbleSort.csproj",
+        "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
+        "outputPath": "J:\\CSharp Github\\bubbleSort\\BubbleSort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Владислав\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

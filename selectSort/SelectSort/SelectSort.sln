@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectSort", "SelectSort.csproj", "{DBC18871-7F8E-4DAF-931A-AB1DA89DB5A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectSort", "SelectSort.csproj", "{DBC18871-7F8E-4DAF-931A-AB1DA89DB5A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "..\..\bubbleSort\BubbleSort\BubbleSort.csproj", "{19244EEC-760F-48C0-A6BE-56BBA632C8B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BubbleSort", "..\..\bubbleSort\BubbleSort\BubbleSort.csproj", "{19244EEC-760F-48C0-A6BE-56BBA632C8B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CocktailSort", "..\..\cocktailSort\CocktailSort\CocktailSort.csproj", "{649BF5D8-EA3C-47CE-BD3F-D85EAC0111B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CocktailSort", "..\..\cocktailSort\CocktailSort\CocktailSort.csproj", "{649BF5D8-EA3C-47CE-BD3F-D85EAC0111B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GnomeSort", "..\..\gnomeSort\GnomeSort\GnomeSort.csproj", "{61D94133-1DAC-48B9-84ED-39D29580FE91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GnomeSort", "..\..\gnomeSort\GnomeSort\GnomeSort.csproj", "{61D94133-1DAC-48B9-84ED-39D29580FE91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSort", "..\..\InsertionSort\InsertionSort\InsertionSort.csproj", "{CC2B373E-89F2-4CD7-B165-66484FD2EA98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertionSort", "..\..\InsertionSort\InsertionSort\InsertionSort.csproj", "{CC2B373E-89F2-4CD7-B165-66484FD2EA98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\asus\\.nuget\\packages\\": {}
+    "C:\\Users\\Владислав\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WORK\\github\\algorithms\\InsertionSort\\InsertionSort\\InsertionSort.csproj",
+      "projectUniqueName": "J:\\CSharp Github\\InsertionSort\\InsertionSort\\InsertionSort.csproj",
       "projectName": "InsertionSort",
-      "projectPath": "C:\\WORK\\github\\algorithms\\InsertionSort\\InsertionSort\\InsertionSort.csproj",
-      "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\WORK\\github\\algorithms\\InsertionSort\\InsertionSort\\obj\\",
+      "projectPath": "J:\\CSharp Github\\InsertionSort\\InsertionSort\\InsertionSort.csproj",
+      "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
+      "outputPath": "J:\\CSharp Github\\InsertionSort\\InsertionSort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Владислав\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
