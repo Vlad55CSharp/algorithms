@@ -11,3 +11,16 @@ C:\WORK\github\algorithms\selectSort\SelectSort\obj\Debug\netcoreapp3.1\SelectSo
 C:\WORK\github\algorithms\selectSort\SelectSort\obj\Debug\netcoreapp3.1\SelectSort.dll
 C:\WORK\github\algorithms\selectSort\SelectSort\obj\Debug\netcoreapp3.1\SelectSort.pdb
 C:\WORK\github\algorithms\selectSort\SelectSort\obj\Debug\netcoreapp3.1\SelectSort.genruntimeconfig.cache
+J:\CSharp Github\selectSort\SelectSort\bin\Debug\netcoreapp3.1\SelectSort.exe
+J:\CSharp Github\selectSort\SelectSort\bin\Debug\netcoreapp3.1\SelectSort.deps.json
+J:\CSharp Github\selectSort\SelectSort\bin\Debug\netcoreapp3.1\SelectSort.runtimeconfig.json
+J:\CSharp Github\selectSort\SelectSort\bin\Debug\netcoreapp3.1\SelectSort.runtimeconfig.dev.json
+J:\CSharp Github\selectSort\SelectSort\bin\Debug\netcoreapp3.1\SelectSort.dll
+J:\CSharp Github\selectSort\SelectSort\bin\Debug\netcoreapp3.1\SelectSort.pdb
+J:\CSharp Github\selectSort\SelectSort\obj\Debug\netcoreapp3.1\SelectSort.csprojAssemblyReference.cache
+J:\CSharp Github\selectSort\SelectSort\obj\Debug\netcoreapp3.1\SelectSort.AssemblyInfoInputs.cache
+J:\CSharp Github\selectSort\SelectSort\obj\Debug\netcoreapp3.1\SelectSort.AssemblyInfo.cs
+J:\CSharp Github\selectSort\SelectSort\obj\Debug\netcoreapp3.1\SelectSort.csproj.CoreCompileInputs.cache
+J:\CSharp Github\selectSort\SelectSort\obj\Debug\netcoreapp3.1\SelectSort.dll
+J:\CSharp Github\selectSort\SelectSort\obj\Debug\netcoreapp3.1\SelectSort.pdb
+J:\CSharp Github\selectSort\SelectSort\obj\Debug\netcoreapp3.1\SelectSort.genruntimeconfig.cache
