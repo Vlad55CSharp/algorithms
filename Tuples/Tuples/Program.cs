@@ -24,6 +24,7 @@ namespace Tuples
             
             switch (method)
             {
+
                 case Method.Select: 
                     {
                         Result = SelectSort(array);
