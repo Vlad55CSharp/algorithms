@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstClass", "..\..\Classes
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskApp", "..\..\TPL\TaskApp\TaskApp.csproj", "{699A5856-AABA-4A38-A04E-B5E0661E4D97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelExample", "..\..\Parallel\ParallelExample\ParallelExample.csproj", "{F77043BF-3124-494A-8502-B01AE4DE19CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParallelExample", "..\..\Parallel\ParallelExample\ParallelExample.csproj", "{F77043BF-3124-494A-8502-B01AE4DE19CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelApp", "..\..\Excel\First\ExcelApp\ExcelApp.csproj", "{3953D4E9-2027-4093-BB46-4AC739404040}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{F77043BF-3124-494A-8502-B01AE4DE19CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F77043BF-3124-494A-8502-B01AE4DE19CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F77043BF-3124-494A-8502-B01AE4DE19CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3953D4E9-2027-4093-BB46-4AC739404040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3953D4E9-2027-4093-BB46-4AC739404040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3953D4E9-2027-4093-BB46-4AC739404040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3953D4E9-2027-4093-BB46-4AC739404040}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
