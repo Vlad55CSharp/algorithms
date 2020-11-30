@@ -6,8 +6,4 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="RibbonControlsLibrary" Version="4.0.0" />
-  </ItemGroup>
-
 </Project>
