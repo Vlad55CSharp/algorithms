@@ -3,10 +3,41 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:ListBoxExample"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <TabControl x:Name="tabs">
+            <TabItem Header="Simple ListBox" x:Name="tiPage1">
+                <ListBox x:Name="simpleList" MouseUp="SimpleList_MouseUp">
+                    <ListBoxItem Content="Элемент 1"/>
+                    <ListBoxItem Content="Элемент 2"/>
+                    <ListBoxItem Content="Элемент 3"/>
+                    <ListBoxItem Content="Элемент 4"/>
+                    <ListBoxItem Content="Элемент 5"/>
+                </ListBox>
+            </TabItem>
+            <TabItem Header="ListBox TextBlock" x:Name="tiPage2">
+                <ListBox x:Name="extendedList" MouseUp="ExtendedList_MouseUp" >
+                    <ListBoxItem>
+                        <StackPanel>
+                            <TextBlock FontSize="16" FontStyle="Italic" FontFamily="Arial Black" FontWeight="Bold" >Элемент 1</TextBlock>
+                            <TextBlock FontSize="12" FontWeight="Light">Подзаголовок</TextBlock>
+                        </StackPanel>                        
+                    </ListBoxItem>
+                    <ListBoxItem>
+                        <StackPanel>
+                            <TextBlock FontSize="16" FontStyle="Italic" FontFamily="Arial Black" FontWeight="Bold" >Элемент 2</TextBlock>
+                            <TextBlock FontSize="12" FontWeight="Light">Подзаголовок</TextBlock>
+                        </StackPanel>
+                    </ListBoxItem>
+                    <ListBoxItem>
+                        <StackPanel>
+                            <TextBlock FontSize="16" FontStyle="Italic" FontFamily="Arial Black" FontWeight="Bold" >Элемент 3</TextBlock>
+                            <TextBlock FontSize="12" FontWeight="Light">Подзаголовок</TextBlock>
+                        </StackPanel>
+                    </ListBoxItem>
+                </ListBox>
+            </TabItem>
+        </TabControl>
     </Grid>
 </Window>
