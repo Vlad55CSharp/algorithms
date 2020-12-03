@@ -8,7 +8,7 @@ namespace FirstClass
     {
         private double width;
         private double length;
-        private double height;
+        
 
         static int ordNumber;
 
@@ -39,6 +39,7 @@ namespace FirstClass
         }
 
         //Свойства
+        private double height;
         public double Height
         {
             get => height;
