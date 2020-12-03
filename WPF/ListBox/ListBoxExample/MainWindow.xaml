@@ -5,6 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <XmlDataProvider x:Key="peopleProvider" Source="peoples.xml" XPath="people" />
+    </Window.Resources>
     <Grid>
         <TabControl x:Name="tabs">
             <TabItem Header="Simple ListBox" x:Name="tiPage1">
@@ -38,6 +41,10 @@
                     </ListBoxItem>
                 </ListBox>
             </TabItem>
+            <TabItem Header="XML List">
+                <ListBox x:Name="xmlList" ItemsSource="{Binding Source={StaticResource peopleProvider}, XPath=person}" DisplayMemberPath="fullName" />                
+            </TabItem>
+            
         </TabControl>
     </Grid>
 </Window>

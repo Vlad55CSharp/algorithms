@@ -42,7 +42,7 @@ namespace ListBoxExample
             if (!(sender is ListBox))
                 return;
             ListBox list = (ListBox)sender; //получаем ListBox            
-            ListBoxItem item = (ListBoxItem)list.Items[simpleList.SelectedIndex];//получаем доступ к выделенному элементу
+            ListBoxItem item = (ListBoxItem)list.Items[list.SelectedIndex];//получаем доступ к выделенному элементу
             StackPanel panel = (StackPanel)item.Content; //получаем доступ к панели
             string result = ""; 
             foreach (UIElement element in panel.Children)

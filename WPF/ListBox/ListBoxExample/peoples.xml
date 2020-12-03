@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<people>
+	<person>
+		<fullName>Пупкин Вася</fullName>
+		<position>Дворник</position>
+		<phone>+1(123)23345678</phone>
+	</person>
+	<person>
+		<fullName>Иванов Петя</fullName>
+		<position>Программист</position>
+		<phone>+1(123)55545678</phone>
+	</person>
+	<person>
+		<fullName>Петров Вова</fullName>
+		<position>Директор</position>
+		<phone>+1(123)55545999</phone>
+	</person>
+</people>

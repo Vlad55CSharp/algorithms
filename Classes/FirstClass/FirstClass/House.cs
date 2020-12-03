@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace FirstClass
 {
@@ -17,7 +15,6 @@ namespace FirstClass
         {
             return $"Ширина {Width} Длина {Length} Высота {Height} Количество окон {WindowCount}";
         }
-
     }
 
 }
