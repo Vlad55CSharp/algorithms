@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParallelExample", "..\..\Pa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelApp", "..\..\Excel\First\ExcelApp\ExcelApp.csproj", "{3953D4E9-2027-4093-BB46-4AC739404040}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelApp_2", "..\..\Excel\WriteText\ExcelApp_2\ExcelApp_2.csproj", "{2CF3B0ED-6BAD-45DD-B42C-12064A26364D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelApp_2", "..\..\Excel\WriteText\ExcelApp_2\ExcelApp_2.csproj", "{2CF3B0ED-6BAD-45DD-B42C-12064A26364D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopwatchExample", "..\..\Stopwatch\StopwatchExample\StopwatchExample.csproj", "{78BA5E00-D8C3-4FF2-8767-7101ABF292EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StopwatchExample", "..\..\Stopwatch\StopwatchExample\StopwatchExample.csproj", "{78BA5E00-D8C3-4FF2-8767-7101ABF292EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses", "..\..\Abstract\AbstractClasses\AbstractClasses.csproj", "{31AACFE0-FF45-4E54-BF03-562BB659787E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{78BA5E00-D8C3-4FF2-8767-7101ABF292EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78BA5E00-D8C3-4FF2-8767-7101ABF292EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78BA5E00-D8C3-4FF2-8767-7101ABF292EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31AACFE0-FF45-4E54-BF03-562BB659787E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31AACFE0-FF45-4E54-BF03-562BB659787E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31AACFE0-FF45-4E54-BF03-562BB659787E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31AACFE0-FF45-4E54-BF03-562BB659787E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
