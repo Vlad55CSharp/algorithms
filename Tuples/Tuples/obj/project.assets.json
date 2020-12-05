@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Владислав\\.nuget\\packages\\": {}
+    "C:\\Users\\asus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\CSharp Github\\Tuples\\Tuples\\Tuples.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Source\\Repos\\Vlad55CSharp\\algorithms\\Tuples\\Tuples\\Tuples.csproj",
       "projectName": "Tuples",
-      "projectPath": "J:\\CSharp Github\\Tuples\\Tuples\\Tuples.csproj",
-      "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
-      "outputPath": "J:\\CSharp Github\\Tuples\\Tuples\\obj\\",
+      "projectPath": "C:\\Users\\asus\\Source\\Repos\\Vlad55CSharp\\algorithms\\Tuples\\Tuples\\Tuples.csproj",
+      "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\asus\\Source\\Repos\\Vlad55CSharp\\algorithms\\Tuples\\Tuples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Владислав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
