@@ -6,7 +6,9 @@ namespace AbstractClass
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Person student = new Student("Вася", "Пупкин", "ГВН-105");
+            string res = student.Display();
+            Console.WriteLine(res);
         }
     }
 }

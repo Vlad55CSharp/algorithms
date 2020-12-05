@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StopwatchExample", "..\..\S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sequences", "..\..\Sequences\Sequences.csproj", "{E46670A0-92EB-445B-AF36-772871C332DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "..\..\AbstractClass\AbstractClass\AbstractClass.csproj", "{1B4551BE-9347-4274-9AA5-735852749754}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClass", "..\..\AbstractClass\AbstractClass\AbstractClass.csproj", "{1B4551BE-9347-4274-9AA5-735852749754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutations", "..\..\Permutations\Permutations\Permutations.csproj", "{6F68139E-067E-4F8E-825F-3E5A45D380ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{1B4551BE-9347-4274-9AA5-735852749754}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B4551BE-9347-4274-9AA5-735852749754}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B4551BE-9347-4274-9AA5-735852749754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F68139E-067E-4F8E-825F-3E5A45D380ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F68139E-067E-4F8E-825F-3E5A45D380ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F68139E-067E-4F8E-825F-3E5A45D380ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F68139E-067E-4F8E-825F-3E5A45D380ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
