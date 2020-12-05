@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\Source\\Repos\\Vlad55CSharp\\algorithms\\InsertionSort\\InsertionSort\\InsertionSort.csproj": {}
+    "J:\\CSharp Github\\InsertionSort\\InsertionSort\\InsertionSort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\Source\\Repos\\Vlad55CSharp\\algorithms\\InsertionSort\\InsertionSort\\InsertionSort.csproj": {
+    "J:\\CSharp Github\\InsertionSort\\InsertionSort\\InsertionSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\Source\\Repos\\Vlad55CSharp\\algorithms\\InsertionSort\\InsertionSort\\InsertionSort.csproj",
+        "projectUniqueName": "J:\\CSharp Github\\InsertionSort\\InsertionSort\\InsertionSort.csproj",
         "projectName": "InsertionSort",
-        "projectPath": "C:\\Users\\asus\\Source\\Repos\\Vlad55CSharp\\algorithms\\InsertionSort\\InsertionSort\\InsertionSort.csproj",
-        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\Source\\Repos\\Vlad55CSharp\\algorithms\\InsertionSort\\InsertionSort\\obj\\",
+        "projectPath": "J:\\CSharp Github\\InsertionSort\\InsertionSort\\InsertionSort.csproj",
+        "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
+        "outputPath": "J:\\CSharp Github\\InsertionSort\\InsertionSort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Владислав\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

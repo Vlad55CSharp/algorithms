@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\Source\\Repos\\Vlad55CSharp\\algorithms\\Tuples\\Tuples\\Tuples.csproj": {}
+    "J:\\CSharp Github\\Tuples\\Tuples\\Tuples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\Source\\Repos\\Vlad55CSharp\\algorithms\\Tuples\\Tuples\\Tuples.csproj": {
+    "J:\\CSharp Github\\Tuples\\Tuples\\Tuples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\Source\\Repos\\Vlad55CSharp\\algorithms\\Tuples\\Tuples\\Tuples.csproj",
+        "projectUniqueName": "J:\\CSharp Github\\Tuples\\Tuples\\Tuples.csproj",
         "projectName": "Tuples",
-        "projectPath": "C:\\Users\\asus\\Source\\Repos\\Vlad55CSharp\\algorithms\\Tuples\\Tuples\\Tuples.csproj",
-        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\Source\\Repos\\Vlad55CSharp\\algorithms\\Tuples\\Tuples\\obj\\",
+        "projectPath": "J:\\CSharp Github\\Tuples\\Tuples\\Tuples.csproj",
+        "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
+        "outputPath": "J:\\CSharp Github\\Tuples\\Tuples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Владислав\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
